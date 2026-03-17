@@ -94,7 +94,7 @@ I bridge the gap between business problems and technical solutions: structuring 
 ---
 
 ## 📫 Reach Me
-**Email:** ic.nwuzor@gmail.com · **Location:** United Kingdom
+**Email:** iheomanwuzor@gmail.com · **Location:** United Kingdom
 
 ---
 

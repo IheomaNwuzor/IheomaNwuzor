@@ -1,158 +1,111 @@
-<p align="center"> 
-<a href="#"><img width="auto" height="120" src="assets/profile.png" style="border-radius:50%"/></a>
+<p align="center">
+  <a href="#"><img width="120" height="120" src="assets/profile.png" style="border-radius:50%"/></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Iheoma Nwuzor</h1>
-<h3 align="center">Senior Business Analyst | Data & Process Optimisation | Business Transformation</h3>
+<h3 align="center">Senior Business Analyst & Data Scientist | Applied ML · Process Optimisation · Business Transformation</h3>
 
-Business Analyst with 6+ years of experience delivering operational, data and technology transformation across regulated and complex environments. Skilled in translating business needs into structured requirements, facilitating stakeholder workshops, and driving data-led decision making.
-
-I focus on turning business problems into structured analytical solutions through process optimisation, data analytics, and cross-functional collaboration. My work helps organisations improve operational efficiency, strengthen governance, and deliver measurable business outcomes. :contentReference[oaicite:0]{index=0}
-
----
-
-### 🔭 Current Focus
-- Operational reporting and analytics transformation  
-- Business process improvement and governance optimisation  
-- Data-driven decision support for leadership teams  
-
----
-
-### 🌱 Currently Learning
-- Advanced SQL optimisation  
-- Forecasting and data modelling  
-- Data platform architecture  
-
----
-
-### 👯 Open to Collaborate On
-- Data analytics projects  
-- Business process transformation initiatives  
-- Operational reporting dashboards  
-
----
-
-### 💬 Ask Me About
-- Business Analysis  
-- Stakeholder workshops  
-- Process Mapping (As-Is / To-Be)  
-- Gap Analysis & Impact Assessment  
-- Data Analytics & Reporting  
-- Governance and documentation frameworks  
-
----
-
-### 📫 How to Reach Me
-📧 Email: ic.nwuzor@gmail.com  
-📍 United Kingdom  
-
----
-
-# Core Business Analysis Capabilities
-
-• Requirements Engineering  
-• Stakeholder Engagement & Workshop Facilitation  
-• Business Process Mapping (As-Is / To-Be)  
-• Gap Analysis & Impact Assessment  
-• Business Case Development  
-• Change & Transformation Support  
-• UAT Planning & Requirement Validation  
-• Governance & Audit Documentation  
-• Operational Improvement & Process Optimisation  
-
----
-
-# Analytical & Technical Tools
-
-### Data Analysis
-SQL  
-Python  
-
-### Data Visualisation
-Power BI  
-Tableau  
-Excel  
-
-### Process Modelling
-Visio  
-Workflow Modelling  
-
-### Data Platforms
-Snowflake  
-Microsoft Fabric  
-
-### Delivery Environments
-Agile delivery teams  
-Cross-functional collaboration  
-
----
-
-# Professional Experience Highlights
-
-### Reporting & Analytics Consultant
-Amdari Inc. – UK | 2025 – Present
-
-- Lead operational analysis and requirements structuring for reporting initiatives across regulated clients  
-- Facilitate stakeholder workshops to capture structured business requirements  
-- Translate business needs into functional specifications for technical teams  
-- Identify process inefficiencies, automation opportunities and control gaps  
-- Support UAT planning through requirements traceability and test preparation  
-
----
-
-### Data Analytics & Platform Analyst
-University of Bristol – UK | 2023 – 2025
-
-- Delivered operational analysis supporting strategic service improvements  
-- Conducted gap analysis across multiple systems to guide platform enhancements  
-- Produced structured documentation including process maps and data definitions  
-- Generated executive-level insights supporting leadership decision-making  
-
----
-
-### Senior Data Analyst
-National Agency for Science & Engineering Infrastructure – Nigeria | 2020 – 2023
-
-- Led enterprise reporting transformation improving decision turnaround by **40%**  
-- Developed governance frameworks improving reporting reliability  
-- Conducted scenario analysis and business impact assessments  
-- Translated analytical insights into actionable business recommendations  
-
----
-
-# Education
-
-PhD – Materials Science  
-
-MSc – Materials Science & Engineering  
-
-BEng – Process Engineering  
-
----
-
-# Certifications
-
-Full Stack Data Science – 10Alytics  
-
-Power BI & Enterprise Analytics  
-
-Ongoing CPD:
-Requirements Engineering  
-Forecasting  
-SQL Optimisation  
-
----
-
-# GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default"/>
+<p align="center">
+  <a href="mailto:ic.nwuzor@gmail.com"><img src="https://img.shields.io/badge/Email-ic.nwuzor%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.datascienceportfol.io/nwuzoriheoma"><img src="https://img.shields.io/badge/Portfolio-datascienceportfol.io-0A66C2?style=flat&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact"/>
-</p>
+---
+
+PhD-trained professional operating at the intersection of **Business Analysis** and **Data Science** — 6+ years delivering data, operational and technology change across regulated and public-sector environments.
+
+I bridge the gap between business problems and technical solutions: structuring requirements, building Python/SQL analytical pipelines, and translating complex data into decisions that stick.
+
+**40% faster decision turnaround** · **£200K+ investment decisions informed** · **25+ stakeholders engaged per programme**
+
+---
+
+## 🔭 What I Do
+
+| Business Analysis | Data Science |
+|---|---|
+| Requirements Engineering (BRD/FRD) | Applied ML & Predictive Modelling |
+| Process Mapping (As-Is/To-Be/BPMN) | EDA & Feature Engineering |
+| Gap Analysis & Impact Assessment | Statistical Modelling & Validation |
+| UAT Planning & Traceability | Reproducible Python Pipelines |
+| Governance & Audit Documentation | Model Explainability & Governance |
+| Stakeholder Workshop Facilitation | Multi-source Data Integration |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Analysis**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**ML & Data Science**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Visualisation**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+**Platforms & Infrastructure**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Delivery**
+
+![Agile](https://img.shields.io/badge/Agile%2FScrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+
+---
+
+## 💼 Experience Highlights
+
+**Reporting & Analytics Consultant** · Amdari Inc., UK · 2025–Present
+- Facilitated 10+ stakeholder workshops across 3 client engagements, reducing requirement rework by ~25%
+- Engineered Python/SQL pipelines cutting manual data prep effort by ~15% per client
+- Built UAT test plans and RTMs ensuring 100% acceptance criteria signed off prior to go-live
+
+**Data Analytics & Platform Analyst** · University of Bristol, UK · 2023–2025
+- Gap analysis across 4 systems directly informed a £200K+ data infrastructure investment
+- Produced Power BI dashboards for weekly senior leadership consumption across 3 service areas
+- Transitioned 2 analytical prototypes to production, reducing reporting lag by ~25%
+
+**Senior Data Analyst** · NASENI, Nigeria · 2021–2023
+- Redesigned enterprise reporting, cutting organisation-wide decision turnaround time by **40%**
+- Implemented data validation controls reducing quality incidents by ~30% within 12 months
+
+---
+
+## 🌱 Currently Building On
+- Advanced ML model validation and explainability
+- Analytics engineering and data platform architecture
+- Forecasting methods for operational planning
+
+---
+
+## 📫 Reach Me
+**Email:** ic.nwuzor@gmail.com · **Location:** United Kingdom
+
+---
+
+## 📊 GitHub Stats
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default&hide_border=true"/>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true"/>
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&hide_border=true"/>
 </p>

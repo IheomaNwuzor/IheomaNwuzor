@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Iheoma Nwuzor</h1>
-<h3 align="center">Senior Data Analyst & Data Scientist | 
+<h3 align="center">Senior Business Analyst & Data Scientist | 
 Machine Learning Systems · Predictive Analytics · Process Optimisation · Decision Intelligence</h3>
 
 <p align="center">
@@ -22,16 +22,32 @@ I bridge the gap between business problems and technical solutions: structuring 
 
 ---
 
+## Featured Projects
+
+### FEMA Disaster Recovery Cost Forecasting System
+Machine Learning powered forecasting platform using:
+- FastAPI
+- Streamlit
+- XGBoost
+- Docker
+- Plotly
+
+Features:
+- Recovery cost prediction
+- Scenario simulation
+- Budget gap analysis
+- Feature importance analytics
+
 ## 🔭 What I Do
 
-| Business Analysis | Data Science |
+| Business Analysis | Data Science & ML Engineering |
 |---|---|
-| Requirements Engineering (BRD/FRD) | Applied ML & Predictive Modelling |
+| Requirements Engineering (BRD/FRD) | Predictive Analytics & ML Systems |
 | Process Mapping (As-Is/To-Be/BPMN) | EDA & Feature Engineering |
-| Gap Analysis & Impact Assessment | Statistical Modelling & Validation |
-| UAT Planning & Traceability | Reproducible Python Pipelines |
-| Governance & Audit Documentation | Model Explainability & Governance |
-| Stakeholder Workshop Facilitation | Multi-source Data Integration |
+| Gap Analysis & Impact Assessment | FastAPI & Streamlit Integration |
+| UAT Planning & Traceability | Dockerized ML Deployment |
+| Governance & Audit Documentation | Model Explainability & Monitoring |
+| Stakeholder Workshop Facilitation | End-to-End Data Pipelines |
 
 ---
 

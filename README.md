@@ -97,8 +97,6 @@ Features:
 
 ## 💼 Experience Highlights
 
-## 💼 Experience Highlights
-
 ### Reporting & Analytics Consultant · Amdari Inc., UK · 2025–Present
 - Facilitated 10+ stakeholder workshops across 3 client engagements, reducing requirements rework by ~25%
 - Engineered Python/SQL analytical pipelines improving reporting efficiency and reducing manual preparation effort by ~15%

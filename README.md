@@ -14,11 +14,21 @@ Machine Learning Systems · Predictive Analytics · Process Optimisation · Deci
 
 ---
 
-PhD-trained professional operating at the intersection of **Business Analysis** and **Data Science** — 6+ years delivering data, operational and technology change across regulated and public-sector environments.
+Data Scientist and Business Analysis professional with 6+ years delivering predictive analytics, operational intelligence, and technology transformation across regulated and public-sector environments.
 
-I bridge the gap between business problems and technical solutions: structuring requirements, building Python/SQL analytical pipelines, and translating complex data into decisions that stick.
+Experienced in translating complex business problems into scalable analytical solutions using Python, SQL, Machine Learning, FastAPI, Streamlit, and Dockerized data systems.
 
-**40% faster decision turnaround** · **£200K+ investment decisions informed** · **25+ stakeholders engaged per programme**
+I specialize in bridging business requirements with technical implementation through:
+- predictive modelling
+- decision-support systems
+- process optimisation
+- analytics engineering
+- end-to-end ML application development
+
+Impact Highlights:
+- 40% faster decision turnaround
+- £200K+ investment decisions informed
+- 25+ stakeholders engaged per programme
 
 ---
 
@@ -87,26 +97,35 @@ Features:
 
 ## 💼 Experience Highlights
 
-**Reporting & Analytics Consultant** · Amdari Inc., UK · 2025–Present
-- Facilitated 10+ stakeholder workshops across 3 client engagements, reducing requirement rework by ~25%
-- Engineered Python/SQL pipelines cutting manual data prep effort by ~15% per client
-- Built UAT test plans and RTMs ensuring 100% acceptance criteria signed off prior to go-live
+## 💼 Experience Highlights
 
-**Data Analytics & Platform Analyst** · University of Bristol, UK · 2023–2025
-- Gap analysis across 4 systems directly informed a £200K+ data infrastructure investment
-- Produced Power BI dashboards for weekly senior leadership consumption across 3 service areas
-- Transitioned 2 analytical prototypes to production, reducing reporting lag by ~25%
+### Reporting & Analytics Consultant · Amdari Inc., UK · 2025–Present
+- Facilitated 10+ stakeholder workshops across 3 client engagements, reducing requirements rework by ~25%
+- Engineered Python/SQL analytical pipelines improving reporting efficiency and reducing manual preparation effort by ~15%
+- Developed UAT frameworks, RTMs, and governance documentation ensuring 100% acceptance criteria signoff before deployment
+- Supported analytics solution design across operational reporting, process optimisation, and decision-support workflows
 
-**Senior Data Analyst** · NASENI, Nigeria · 2021–2023
-- Redesigned enterprise reporting, cutting organisation-wide decision turnaround time by **40%**
-- Implemented data validation controls reducing quality incidents by ~30% within 12 months
+### Data Analytics & Platform Analyst · University of Bristol, UK · 2023–2025
+- Conducted enterprise gap analysis across 4 institutional systems informing £200K+ data infrastructure investment decisions
+- Built Power BI reporting solutions and automated analytical workflows for senior leadership across multiple service areas
+- Transitioned analytical prototypes into production-ready reporting systems, reducing reporting lag by ~25%
+- Supported cross-functional data governance, platform optimisation, and service analytics initiatives
+
+### Senior Data Analyst · NASENI, Nigeria · 2021–2023
+- Redesigned enterprise reporting architecture, reducing organisation-wide decision turnaround time by 40%
+- Implemented data validation and quality assurance controls reducing reporting quality incidents by ~30%
+- Developed operational analytics frameworks supporting performance monitoring and executive reporting
+- Delivered data-driven insights supporting strategic planning and organisational performance initiatives
 
 ---
 
 ## 🌱 Currently Building On
-- Advanced ML model validation and explainability
-- Analytics engineering and data platform architecture
-- Forecasting methods for operational planning
+
+- End-to-end Machine Learning systems using FastAPI, Streamlit, Docker, and XGBoost
+- Predictive analytics and forecasting systems for operational decision support
+- Model explainability, validation, and ML governance workflows
+- Analytics engineering and scalable Python data pipelines
+- Deployment-oriented data science and cloud-ready ML architectures
 
 ---
 

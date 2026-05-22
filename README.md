@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Iheoma Nwuzor</h1>
-<h3 align="center">Senior Business Analyst & Data Scientist |     
+<h3 align="center">Senior Data Analyst & Data Scientist |     
 Machine Learning Systems · Predictive Analytics · Process Optimisation · Decision Intelligence</h3>
 
 <p align="center">

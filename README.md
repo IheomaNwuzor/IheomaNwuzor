@@ -114,13 +114,13 @@ Features:
 
 ## 💼 Experience Highlights
 
-### Reporting & Analytics Consultant · Amdari Inc., UK · 2025–Present
+### Data Science & Analytics Consultant · Amdari Inc., UK · 2025–Present
 - Facilitated 10+ stakeholder workshops across 3 client engagements, reducing requirements rework by ~25%
 - Engineered Python/SQL analytical pipelines improving reporting efficiency and reducing manual preparation effort by ~15%
 - Developed UAT frameworks, RTMs, and governance documentation ensuring 100% acceptance criteria signoff before deployment
 - Supported analytics solution design across operational reporting, process optimisation, and decision-support workflows
 
-### Data Analytics & Platform Analyst · University of Bristol, UK · 2023–2025
+### Data Analytics Specialist · University of Bristol, UK · 2023–2025
 - Conducted enterprise gap analysis across 4 institutional systems informing £200K+ data infrastructure investment decisions
 - Built Power BI reporting solutions and automated analytical workflows for senior leadership across multiple service areas
 - Transitioned analytical prototypes into production-ready reporting systems, reducing reporting lag by ~25%

@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Iheoma Nwuzor</h1>
-<h3 align="center">Senior Data Analyst & Data Scientist |     
-Machine Learning Systems · Predictive Analytics · Process Optimisation · Decision Intelligence</h3>
+<h3 align="center">Senior Data Scientist | AI & Analytics |     
+Machine Learning Systems · Predictive Analytics · Digital Transformation . Process Optimisation · Decision Intelligence</h3>
 
 <p align="center">
   <a href="mailto:ic.nwuzor@gmail.com"><img src="https://img.shields.io/badge/Email-iheomanwuzor%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>

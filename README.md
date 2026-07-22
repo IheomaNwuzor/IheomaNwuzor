@@ -23,12 +23,14 @@ I specialize in bridging business requirements with technical implementation thr
 - decision-support systems
 - process optimisation
 - analytics engineering
+- Digital Transformation
 - end-to-end ML application development
 
 Impact Highlights:
 - 40% faster decision turnaround
 - £200K+ investment decisions informed
 - 25+ stakeholders engaged per programme
+- 75% Operational Improvement
 
 ---
 

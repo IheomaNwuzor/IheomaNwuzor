@@ -7,7 +7,7 @@
 Machine Learning & Statistical modelling · Predictive Analytics · Python · SQL · Azure · Digital Transformation . Process Optimisation · Decision Intelligence</h3>
 
 <p align="center">
-  <a href="mailto:ic.nwuzor@gmail.com"><img src="https://img.shields.io/badge/Email-iheomanwuzor%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ic.nwuzor@gmail.com"><img src="https://img.shields.io/badge/Email-iheomacnwuzor%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.datascienceportfol.io/nwuzoriheoma"><img src="https://img.shields.io/badge/Portfolio-datascienceportfol.io-0A66C2?style=flat&logo=google-chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>

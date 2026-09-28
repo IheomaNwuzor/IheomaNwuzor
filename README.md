@@ -150,7 +150,7 @@ Features:
 ---
 
 ## 📫 Reach Me
-**Email:** iheomanwuzor@gmail.com · **Location:** United Kingdom
+**Email:** iheomacnwuzor@gmail.com · **Location:** United Kingdom
 
 ---
 

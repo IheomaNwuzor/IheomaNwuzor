@@ -115,24 +115,27 @@ Features:
 ## 💼 Experience Highlights
 
 ### Senior Data Scientist · Amdari Inc., UK · 2025–Present
-•	Architected and evaluated LLM agentic workflows and hybrid search RAG pipelines using LangChain, Python and Azure Databricks for regulated public-sector clients; established Ragas and DeepEval frameworks measuring Context Precision, Faithfulness and Groundedness to cut operational pipeline error rates by 20%.
-•	Engineered schema linking and Text-to-SQL validation routines over relational layers and semantic metrics models, enabling self-correcting query generation and reducing analytical turnaround times by 40%.
-•	Developed predictive risk and fraud detection models (XGBoost, Scikit-learn) using rigorous statistical cross-validation and hypothesis-driven experimentation, cutting risk exposure by 25%.
-•	Built reproducible ETL pipelines and governance-compliant deployment workflows across Azure and Snowflake, ensuring data integrity for downstream AI analysis.
-•	Translated technical evaluations and comparative assessments into evidence-based recommendations for senior stakeholders; established testing standards and led code reviews for data science teams.
+- Architected and evaluated LLM agentic workflows and hybrid search RAG pipelines using LangChain, Python and Azure Databricks for regulated public-sector clients; established Ragas and DeepEval frameworks measuring Context Precision, Faithfulness and Groundedness to cut operational pipeline error rates by 20%.
+- Engineered schema linking and Text-to-SQL validation routines over relational layers and semantic metrics models, enabling self-correcting query generation and reducing analytical turnaround times by 40%.
+- Developed predictive risk and fraud detection models (XGBoost, Scikit-learn) using rigorous statistical cross-validation and hypothesis-driven experimentation, cutting risk exposure by 25%.
+- Built reproducible ETL pipelines and governance-compliant deployment workflows across Azure and Snowflake, ensuring data integrity for downstream AI analysis.
+- Translated technical evaluations and comparative assessments into evidence-based recommendations for senior stakeholders; established testing standards and led code reviews for data science teams.
 
 
-### Data Analytics Specialist · University of Bristol, UK · 2023–2025
-- Conducted enterprise gap analysis across 4 institutional systems informing £200K+ data infrastructure investment decisions
-- Built Power BI reporting solutions and automated analytical workflows for senior leadership across multiple service areas
-- Transitioned analytical prototypes into production-ready reporting systems, reducing reporting lag by ~25%
-- Supported cross-functional data governance, platform optimisation, and service analytics initiatives
+### Research Fellow – Data Science & AI Research · University of Bristol, UK · 2023–2025
+- Conducted systematic research reviews and empirical evaluations of emerging analytical techniques, presenting evidence-based findings to multidisciplinary academic and industry partners.
+- Executed structured Design of Experiments (DoE) and Bayesian inference models in Python to evaluate high-dimensional computational workflows and quantify uncertainty across complex time-series data.
+- Built multivariate ML models (PCA, PLS, clustering) and statistical evaluation pipelines, increasing analytical precision by 20% across real-time sensor streams.
+- Refactored and productionised 2 research prototypes into stable operational tools, reducing reporting latency by 25% and directly informing a £200K+ enterprise capital investment decision.
+- Engineered scalable Python and SQL pipelines connecting real-time streaming data to analytical storage layers, optimising query execution for comparative analysis.
 
-### Senior Data Analyst · NASENI, Nigeria · 2021–2023
-- Redesigned enterprise reporting architecture, reducing organisation-wide decision turnaround time by 40%
-- Implemented data validation and quality assurance controls reducing reporting quality incidents by ~30%
-- Developed operational analytics frameworks supporting performance monitoring and executive reporting
-- Delivered data-driven insights supporting strategic planning and organisational performance initiatives
+
+### Senior Lecturer & Research Lead (Data & Analytics) · nnamdi Azikiwe University, Nigeria · 2019–2023
+- Architected relational database schemas and structured metadata layers across operational units, optimising complex SQL (indexing, views, window functions) to support automated reporting and Text-to-SQL data access patterns.
+- Designed multivariate statistical models (ANOVA, regression, factor analysis) to evaluate multidimensional research processes and inform institutional decision-making.
+- Engineered automated Python extraction scripts and ETL validation pipelines for unstructured datasets, increasing processing throughput by 35% and reducing data quality errors by 30%.
+- Standardised reproducible Python workflows and Git-based version control across research groups, establishing standard operating procedures for data quality and experimentation benchmarking.
+
 
 ---
 

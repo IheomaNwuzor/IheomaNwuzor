@@ -114,11 +114,13 @@ Features:
 
 ## 💼 Experience Highlights
 
-### Data Science & Analytics Consultant · Amdari Inc., UK · 2025–Present
-- Facilitated 10+ stakeholder workshops across 3 client engagements, reducing requirements rework by ~25%
-- Engineered Python/SQL analytical pipelines improving reporting efficiency and reducing manual preparation effort by ~15%
-- Developed UAT frameworks, RTMs, and governance documentation ensuring 100% acceptance criteria signoff before deployment
-- Supported analytics solution design across operational reporting, process optimisation, and decision-support workflows
+### Senior Data Scientist · Amdari Inc., UK · 2025–Present
+•	Architected and evaluated LLM agentic workflows and hybrid search RAG pipelines using LangChain, Python and Azure Databricks for regulated public-sector clients; established Ragas and DeepEval frameworks measuring Context Precision, Faithfulness and Groundedness to cut operational pipeline error rates by 20%.
+•	Engineered schema linking and Text-to-SQL validation routines over relational layers and semantic metrics models, enabling self-correcting query generation and reducing analytical turnaround times by 40%.
+•	Developed predictive risk and fraud detection models (XGBoost, Scikit-learn) using rigorous statistical cross-validation and hypothesis-driven experimentation, cutting risk exposure by 25%.
+•	Built reproducible ETL pipelines and governance-compliant deployment workflows across Azure and Snowflake, ensuring data integrity for downstream AI analysis.
+•	Translated technical evaluations and comparative assessments into evidence-based recommendations for senior stakeholders; established testing standards and led code reviews for data science teams.
+
 
 ### Data Analytics Specialist · University of Bristol, UK · 2023–2025
 - Conducted enterprise gap analysis across 4 institutional systems informing £200K+ data infrastructure investment decisions
